@@ -1,4 +1,26 @@
+# Ambiente Virtual Python
 .venv/
+venv/
+ENV/
+env/
+
+# Cache do Python e Compilados
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Checkpoints e Temporários do Jupyter Notebook
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Configurações Locais do VS Code
 .vscode/
+
+# Arquivos de Sistema (Windows e Mac)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs e Dados Temporários
+*.log
