@@ -63,7 +63,7 @@ sales-data-analysis/
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+   git clone https://github.com/YFacchinello/data-cleaning-ecommerce
 
 2. Crie e ative o ambiente virtual:
    python -m venv .venv
